@@ -14,7 +14,6 @@ This project implements a HomeKit-compatible temperature and humidity sensor usi
 
 - ESP32-WROOM development board. This is the one I used https://www.aliexpress.com/item/1005006888612002.html
 - SI7021 temperature and humidity sensor. This is the one I used https://www.aliexpress.com/item/1005006583390274.html
-- Push button for reset functionality (connected to GPIO 0)
 
 ## Software Dependencies
 
